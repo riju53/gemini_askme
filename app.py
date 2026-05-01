@@ -29,7 +29,7 @@ if submit:
                     contents=text
                 )
 
-                st.success("Response:")
+                #st.success("Response:")
                 st.write(response.text)
 
             except Exception as e:
