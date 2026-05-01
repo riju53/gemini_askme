@@ -1,5 +1,5 @@
 streamlit==1.57.0
-lxml==6.0.2
+lxml==6.1.0
 python-dotenv==1.2.2
 toml==0.10.2
 google-genai==1.68.0
